@@ -1,0 +1,31 @@
+{
+  "editor.tabSize": 2,
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  "editor.formatOnSave": true,
+  "flow.useNPMPackagedFlow": true,
+  "javascript.validate.enable": false,
+  "javascript.format.enable": false,
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": true,
+  "workbench.editor.enablePreview": false,
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "Dracula",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "colorize.languages": ["javascript", "typescript"],
+  "python.formatting.provider": "black",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter.notebook.ipynb"
+  },
+  "window.zoomLevel": 1,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "files.exclude": {
+    "**/.cache": true
+  },
+  "[python]": {
+    "editor.formatOnType": true
+  }
+}
